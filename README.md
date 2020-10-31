@@ -8,4 +8,4 @@ This repository contains my Jupyter Notebooks for the assignments in the course 
 - Week 4: Saving and Loading Models
 - Week 5: Capstone Project
 
-<img src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fserving-keras-models-locally-using-tensorflow-serving-tf-2-x-8bb8474c304e&psig=AOvVaw2T3roE65z1-7skz6AGp9wA&ust=1604212947800000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC554md3uwCFQAAAAAdAAAAABAD”>
+<img src="https://miro.medium.com/max/1400/1*YrvMKrWMhi3HomoiTLPsfw.png">
